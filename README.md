@@ -108,7 +108,7 @@ Contributions are welcome! If you have suggestions for new features or better re
 
 ---
 
-it is a group project. Contribuiters name mentioned below:-
+It is a group project. Contribuiters name mentioned below:-
 1. Ananya Choudhary
 2. Anuska Chatterjee
 3. Ashmita Chatterjee
